@@ -3,6 +3,6 @@
 
 #### It is like Twitter, but only for real men 
 
-![alt text](https://ibb.co/BCm28N6)
-![alt text](https://ibb.co/25t04TK)
+![alt text](screenshots/i1.jpg)
+![alt text](screenshots/i2.jpg)
 
