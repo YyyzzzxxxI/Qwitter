@@ -1,0 +1,13 @@
+.quotes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    height: auto;
+    background-color: #f4f4f4;
+    color: #373737;
+}
+
+.quote{
+    margin: 20px;
+}

@@ -1,0 +1,8 @@
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+
+    width: 100%;
+    margin-right: 20px;
+}

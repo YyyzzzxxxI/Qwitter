@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    height: 90vh;
+    width: 100%;
+}
+
+.container.auth Button {
+    margin: 10px;
+}
+
+.container.auth form {
+    height: auto;
+}
+
+.container.auth img {
+    height: 30%;
+
+}
+
+.container.auth form label {
+    margin: 10px;
+}
